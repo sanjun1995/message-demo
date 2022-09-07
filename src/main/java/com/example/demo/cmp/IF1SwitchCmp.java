@@ -14,6 +14,6 @@ public class IF1SwitchCmp extends NodeSwitchComponent {
         Thread.sleep(time);
 
         //这里写死跳到并行获取剩余量那条分支，你可以改成其他分支测试
-        return "branch1";
+        return "branch2";
     }
 }

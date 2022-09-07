@@ -20,7 +20,7 @@
 
         THEN(
             packageData,
-            SWITCH(if_1).to(
+            SWITCH(if_3).to(
                 channel1,
                 channel2,
                 selectBestChannel,

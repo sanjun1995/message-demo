@@ -14,6 +14,6 @@ public class IF3SwitchCmp extends NodeSwitchComponent {
         Thread.sleep(time);
 
         //这里写死，你可以改成其他
-        return "channel5";
+        return "channel2";
     }
 }
